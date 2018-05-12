@@ -1,0 +1,32 @@
+_repo: The-Borghesi-Astronomical-Clock-in-the-Museum-of-History-and-Technology--13-Contributions-fro__33198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bedini, Silvio A.
+    birthdate: 1917
+    deathdate: 2007
+    gutenberg_agent_id: '36260'
+    url: http://www.gutenberg.org/2009/agents/36260
+    wikipedia: http://en.wikipedia.org/wiki/Silvio_Bedini
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Manufacturing
+gutenberg_issued: '2010-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States National Museum Bulletin, 240
+subjects:
+- !lcc 'Q'
+- !lcsh 'Astronomical clocks'
+title: "The Borghesi Astronomical Clock in the Museum of History and Technology\r\n\
+  Contributions from the Museum of History and Technology, Paper 35"
+url: http://www.gutenberg.org/ebooks/33198
