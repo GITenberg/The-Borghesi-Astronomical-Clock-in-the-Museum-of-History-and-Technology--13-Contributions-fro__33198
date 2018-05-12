@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36260
     wikipedia: http://en.wikipedia.org/wiki/Silvio_Bedini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33198#The-Borghesi-Astronomical-Clock-in-the-Museum-of-History-and-Technology--13-Contributions-fro_
 gutenberg_bookshelf:
 - Technology
 - Manufacturing
